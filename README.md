@@ -1,2 +1,18 @@
-# SignIn-SignUp-form
-A clean and responsive Sign In/Sign Up authentication module with modern UI, form validation, password visibility toggle, and user-friendly layout. Designed for seamless integration into web projects and perfect for beginners learning authentication flow.
+# 🔐 Sign In / Sign Up Authentication UI
+A modern, responsive, and easy-to-integrate authentication module featuring Sign In and Sign Up forms. Includes real-time form validation, password strength checks, error handling, and a clean UI layout suitable for any web project.
+
+🚀 Features
+✔️ Responsive SignIn & SignUp Forms
+✔️ Real-time Input Validation
+✔️ Password Visibility Toggle
+✔️ Error/Success Message Handling
+✔️ Clean UI with Modern Styling
+✔️ User-Friendly Layout
+✔️ Easy to Customize and Integrate
+📸 Preview
+#Sign-In
+<img width="1888" height="893" alt="image" src="https://github.com/user-attachments/assets/8c5f8360-aa20-4d96-b1a5-1b5cfd07bf33" />
+
+#Sign-Up
+<img width="1895" height="881" alt="image" src="https://github.com/user-attachments/assets/f6869cff-47b4-4694-b853-cdea635bcf99" />
+
